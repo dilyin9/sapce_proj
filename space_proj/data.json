@@ -1,0 +1,26 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "name": "Cходить в магазин",
+      "state": "CREATED",
+      "description": "task0",
+      "creationDate": "2023-05-21T19:21:20.551Z"
+    },
+    {
+      "id": 1,
+      "name": "Погулять с собакой",
+      "state": "CREATED",
+      "description": "task1",
+      "creationDate": "2023-05-21T19:21:20.551Z"
+    },
+    {
+      "name": "Сходить на тренировку",
+      "state": "CREATED",
+      "description": "task2",
+      "creationDate": "2023-05-21T20:01:11.663Z",
+      "id": 2
+    }
+
+  ]
+}
